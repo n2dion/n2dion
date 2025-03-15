@@ -1,7 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Dionne! </h1> 
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2> Certifications</h2>
+
+- [Google Cybersecurity Professional](https://coursera.org/share/d62d3386bf035cb770ad03f24194c4a0)
+- [Google It Support Professional](https://coursera.org/share/ce8cc71f584cd8412a53491c825315fc)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="dionne-brownlee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/dionne-brownlee
 
 <!--
-**n2dion/n2dion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
