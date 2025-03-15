@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [File Permissions in Linux]https://github.com/n2dion/Use-Linux-commands-to-manage-file-permissions/tree/main()
 
 
 <h2> Certifications</h2>
