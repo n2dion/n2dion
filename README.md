@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [File Permissions in Linux](https://github.com/n2dion/Use-Linux-commands-to-manage-file-permissions/tree/main)
-  - [Apply filters to SQL queries](https://github.com/n2dion/Use-Linux-commands-to-manage-file-permissions/tree/main)
+  - [Apply filters to SQL queries](https://github.com/n2dion/Apply-filters-to-SQL-queries-lab/blob/main/README.md)
 
 
 <h2> Certifications</h2>
